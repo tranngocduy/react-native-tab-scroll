@@ -1,6 +1,6 @@
 {
   "name": "react-native-tab-scroll",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -29,10 +29,10 @@
   },
   "homepage": "https://github.com/tranngocduy/react-native-tab-scroll#readme",
   "dependencies": {
-    "@react-native-community/viewpager": "^2.0.1",
-    "create-react-class": "^15.6.2",
-    "prop-types": "^15.6.0",
-    "react-timer-mixin": "^0.13.3"
+    "@react-native-community/viewpager": "^4.0.0",
+    "create-react-class": "^15.6.3",
+    "prop-types": "^15.7.2",
+    "react-timer-mixin": "^0.13.4"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
